@@ -1,0 +1,7 @@
+#add ignores 
+
+.DS_Store
+
+CrewManager/CrewManager.xcodeproj/project.xcworkspace/xcuserdata/akatona.xcuserdatad/
+
+CrewManager/CrewManager.xcodeproj/xcuserdata/akatona.xcuserdatad/xcschemes/

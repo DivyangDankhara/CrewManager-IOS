@@ -1,0 +1,54 @@
+
+/* Class = "UINavigationItem"; title = "Jobs"; ObjectID = "0jb-Le-XZY"; */
+"0jb-Le-XZY.title" = "Jobs";
+
+/* Class = "UILabel"; text = "Progress"; ObjectID = "AMB-yJ-RDZ"; */
+"AMB-yJ-RDZ.text" = "Progress";
+
+/* Class = "UITabBarItem"; title = "Task"; ObjectID = "Bif-lA-1dK"; */
+"Bif-lA-1dK.title" = "Task";
+
+/* Class = "UITabBarItem"; title = "Jobs"; ObjectID = "JgY-Nh-Mdd"; */
+"JgY-Nh-Mdd.title" = "Jobs";
+
+/* Class = "UIButton"; normalTitle = "Create New Job"; ObjectID = "KWH-HC-bAT"; */
+"KWH-HC-bAT.normalTitle" = "Create New Job";
+
+/* Class = "UILabel"; text = "Please Enter Job Name"; ObjectID = "LBm-Oo-88s"; */
+"LBm-Oo-88s.text" = "Please Enter Job Name";
+
+/* Class = "UILabel"; text = "Tasks"; ObjectID = "MsZ-NF-75B"; */
+"MsZ-NF-75B.text" = "Tasks";
+
+/* Class = "UINavigationItem"; title = "Task Info"; ObjectID = "TYb-Ht-jpR"; */
+"TYb-Ht-jpR.title" = "Task Info";
+
+/* Class = "UINavigationItem"; title = "Tasks"; ObjectID = "YFw-eZ-IOH"; */
+"YFw-eZ-IOH.title" = "Tasks";
+
+/* Class = "UIButton"; normalTitle = "Add New"; ObjectID = "YKE-dM-90w"; */
+"YKE-dM-90w.normalTitle" = "Add New";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ahd-W3-IZ0"; */
+"ahd-W3-IZ0.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Task Info"; ObjectID = "gFG-pl-KpA"; */
+"gFG-pl-KpA.title" = "Task Info";
+
+/* Class = "UILabel"; text = "Job Name: "; ObjectID = "n9g-Qk-7gC"; */
+"n9g-Qk-7gC.text" = "Job Name: ";
+
+/* Class = "UITextField"; placeholder = "Enter Job Name"; ObjectID = "o2o-uR-ffq"; */
+"o2o-uR-ffq.placeholder" = "Enter Job Name";
+
+/* Class = "UILabel"; text = "Difficuly"; ObjectID = "6Wp-MA-A3"; */
+"6Wp-MA-A3D.text" = "Difficulty";
+
+/* Class = "UIButton"; normalTitle = "Add New"; ObjectID = "YKE-dM-90w"; */
+"oHn-1v-Vnh.normalTitle" = "Easy";
+
+/* Class = "UIButton"; normalTitle = "Add New"; ObjectID = "YKE-dM-90w"; */
+"g7J-xE-B5N.normalTitle" = "Medium";
+
+/* Class = "UIButton"; normalTitle = "Add New"; ObjectID = "YKE-dM-90w"; */
+"kQK-5V-rkb.normalTitle" = "Hard";

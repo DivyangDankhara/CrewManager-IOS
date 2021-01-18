@@ -1,0 +1,72 @@
+
+/* Class = "UINavigationItem"; title = "Jobs"; ObjectID = "0jb-Le-XZY"; */
+"0jb-Le-XZY.title" = "рабочие места";
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "97R-6C-ccK"; */
+"97R-6C-ccK.title" = "основной";
+
+/* Class = "UILabel"; text = "Progress"; ObjectID = "AMB-yJ-RDZ"; */
+"AMB-yJ-RDZ.text" = "прогресс";
+
+/* Class = "UINavigationItem"; title = "Main"; ObjectID = "B98-Km-MfN"; */
+"B98-Km-MfN.title" = "основной";
+
+/* Class = "UITabBarItem"; title = "Task"; ObjectID = "Bif-lA-1dK"; */
+"Bif-lA-1dK.title" = "Задача";
+
+/* Class = "UITabBarItem"; title = "Jobs"; ObjectID = "JgY-Nh-Mdd"; */
+"JgY-Nh-Mdd.title" = "Вакансии";
+
+/* Class = "UIButton"; normalTitle = "Create New Job"; ObjectID = "KWH-HC-bAT"; */
+"KWH-HC-bAT.normalTitle" = "Создать новую работу";
+
+/* Class = "UILabel"; text = "Please Enter Job Name"; ObjectID = "LBm-Oo-88s"; */
+"LBm-Oo-88s.text" = "Пожалуйста, введите название работы";
+
+/* Class = "UILabel"; text = "Tasks"; ObjectID = "MsZ-NF-75B"; */
+"MsZ-NF-75B.text" = "Задачи";
+
+/* Class = "UIButton"; normalTitle = "ENTER"; ObjectID = "O4m-0O-CxW"; */
+"O4m-0O-CxW.normalTitle" = "ВОЙТИ";
+
+/* Class = "UINavigationItem"; title = "Task Info"; ObjectID = "TYb-Ht-jpR"; */
+"TYb-Ht-jpR.title" = "Информация о задаче";
+
+/* Class = "UINavigationItem"; title = "Tasks"; ObjectID = "YFw-eZ-IOH"; */
+"YFw-eZ-IOH.title" = "Задачи";
+
+/* Class = "UIButton"; normalTitle = "Add New"; ObjectID = "YKE-dM-90w"; */
+"YKE-dM-90w.normalTitle" = "Добавить новое";
+
+/* Class = "UILabel"; text = "Motto"; ObjectID = "agr-mh-sPH"; */
+"agr-mh-sPH.text" = "Motto";
+
+/* Class = "UITabBarItem"; title = "Task Info"; ObjectID = "gFG-pl-KpA"; */
+"gFG-pl-KpA.title" = "Информация о задаче";
+
+/* Class = "UILabel"; text = "Job Name: "; ObjectID = "n9g-Qk-7gC"; */
+"n9g-Qk-7gC.text" = "название работы: ";
+
+/* Class = "UITextField"; placeholder = "Enter Job Name"; ObjectID = "o2o-uR-ffq"; */
+"o2o-uR-ffq.placeholder" = "Введите название работы";
+
+/* Class = "UISwitch"; title = "Yes"; ObjectID = "w6c-sz-ac4"; */
+"w6c-sz-ac4.title" = "да";
+
+/* Class = "UILabel"; text = "Crew Manager"; ObjectID = "wn6-Ro-aFR"; */
+"wn6-Ro-aFR.text" = "Менеджер экипажа";
+
+/* Class = "UILabel"; text = "Difficuly"; ObjectID = "6Wp-MA-A3"; */
+"6Wp-MA-A3D.text" = "Сложность";
+
+/* Class = "UILabel"; text = "Job Name: "; ObjectID = "n9g-Qk-7gC"; */
+"n9g-Qk-7gC.text" = "Название работы: ";
+
+/* Class = "UIButton"; normalTitle = "Easy"; ObjectID = "YKE-dM-90w"; */
+"oHn-1v-Vnh.normalTitle" = "Легко";
+
+/* Class = "UIButton"; normalTitle = "Medium"; ObjectID = "YKE-dM-90w"; */
+"g7J-xE-B5N.normalTitle" = "Средняя";
+
+/* Class = "UIButton"; normalTitle = "Hard"; ObjectID = "YKE-dM-90w"; */
+"kQK-5V-rkb.normalTitle" = "Жесткий";
